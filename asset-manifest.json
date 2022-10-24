@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/boat/static/css/main.dd771311.css",
+    "main.js": "/boat/static/js/main.f44c45e3.js",
+    "static/js/787.1edef287.chunk.js": "/boat/static/js/787.1edef287.chunk.js",
+    "index.html": "/boat/index.html",
+    "main.dd771311.css.map": "/boat/static/css/main.dd771311.css.map",
+    "main.f44c45e3.js.map": "/boat/static/js/main.f44c45e3.js.map",
+    "787.1edef287.chunk.js.map": "/boat/static/js/787.1edef287.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dd771311.css",
+    "static/js/main.f44c45e3.js"
+  ]
+}
